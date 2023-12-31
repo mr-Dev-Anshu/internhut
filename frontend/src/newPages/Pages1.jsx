@@ -12,5 +12,5 @@ export default function Pages1() {
         <li>Home</li>
       </ul>
     </div>
-  );
+   );
 }
